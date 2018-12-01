@@ -1,0 +1,14 @@
+{
+  "dev": {
+    "url": "http://localhost:4003/",
+    "hostname": "localhost",
+    "port": 4003,
+    "connectionString": "postgres://postgres:Trustno1@localhost:5432/ganatan"
+  },
+  "prod": {
+    "url": "http://localhost:4003/",
+    "hostname": "localhost",
+    "port": 4003,
+    "connectionString": "postgres://postgres:Trustno1@localhost:5432/sir"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "express-api-rest-postgresql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "cross-env NODE_ENV=dev node server",
+    "prod": "cross-env NODE_ENV=prod node server"
+  },
+  "author": "chendra",
+  "license": "MCP",
+  "dependencies": {
+    "bluebird": "3.5.3",
+    "body-parser": "1.18.3",
+    "cross-env": "5.2.0",
+    "express": "4.16.4",
+    "express-prettify": "0.1.1",
+    "pg-promise": "8.5.3"
+  },
+  "engines": {
+    "node": ">= 10.13.0",
+    "npm": ">= 6.4.1"
+  }
+}
