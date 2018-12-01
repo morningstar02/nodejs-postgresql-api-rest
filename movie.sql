@@ -1,5 +1,5 @@
-DROP DATABASE IF EXISTS ganatan;
-CREATE DATABASE ganatan;
+DROP DATABASE IF EXISTS movies_database;
+CREATE DATABASE movies_database;
 
 CREATE SEQUENCE public.movie_id_seq;
 
