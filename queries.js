@@ -5,7 +5,7 @@ var options = {
 };
 var pgp = require('pg-promise')(options);
 
-var connectionString = "postgres://postgres:Trustno1@localhost:5432/ganatan";
+var connectionString = "postgres://postgres:Trustno1@localhost:5432/mock";
 var db = pgp(connectionString);
 
 function getMovies(req, res, next) {

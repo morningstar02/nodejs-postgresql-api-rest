@@ -1,5 +1,5 @@
-DROP DATABASE IF EXISTS movies_database;
-CREATE DATABASE movies_database;
+DROP DATABASE IF EXISTS mock;
+CREATE DATABASE mock;
 
 CREATE SEQUENCE public.movie_id_seq;
 

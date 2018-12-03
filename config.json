@@ -3,12 +3,12 @@
     "url": "http://localhost:4003/",
     "hostname": "localhost",
     "port": 4003,
-    "connectionString": "postgres://postgres:Trustno1@localhost:5432/movies_database"
+    "connectionString": "postgres://postgres:Trustno1@localhost:5432/mock"
   },
   "prod": {
-    "url": "http://www.site_name.com:4003/",
+    "url": "http://www.mysiteweb.com:4003/",
     "hostname": "localhost",
     "port": 4003,
-    "connectionString": "postgres://postgres:Trustno1@localhost:5432/movies_database"
+    "connectionString": "postgres://postgres:Trustno1@localhost:5432/mock"
   }
 }
