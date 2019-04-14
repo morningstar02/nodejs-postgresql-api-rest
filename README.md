@@ -1,6 +1,6 @@
 # express-api-rest-postgresql
-- Date : 03/12/18 15:06
-- Author : chendra
+- Date : 14/04/19 10:06
+- Author : danny ganatan
 
 # Prerequisites
 - Express version 4.16.4
