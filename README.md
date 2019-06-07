@@ -13,4 +13,4 @@
 - http://localhost:4200
 
 # Tutorials
-- https://www.ganatan.com/docs
+- https://www.ganatan.com/nodejs
